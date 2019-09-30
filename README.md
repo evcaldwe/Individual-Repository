@@ -1,5 +1,10 @@
 # Evan Caldwell (evcaldwe)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud **exercitation ullamco** laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+I am currently a Senior at Indiana University, scheduled to graduate in May of 2020. I'm 
+from Fort Wayne Indiana, where I went to school at Homestead High School. 
+I'm an Informatics major with a business cognate with experience in SQL, Python, HTML, and 
+In-design. My hobbies include computer building, weightlifting, football, 
+and gaming. I love animals, and I'm a huge fan of IU sports. **GO HOOSIERS!**
+
 
 - Major: Informatics
-- Minors: Cognitive Science, Counseling
+- Cognate: Business
